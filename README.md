@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 ###
+Hi everyone my name is Yarden and Im a BSc student at [Hadassha Academic Collage](https://www.hac.ac.il) looking for my first job.
 
-<!--
-**yardenSeriLevi/yardenSeriLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me ###
+```Java
+class Yaarden
+{
+  private String name = "Yarden Seri Levi";
+  private String[] programingLanguages = {"Java", "js", "React", "python", "C++"};
+}
+```
+### Contact Me ###
+If you want to contact me, you are welcome to do it through:  
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarden-seri-levi)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yardenSeriLevi&show_icons=true&theme=cobalt)
