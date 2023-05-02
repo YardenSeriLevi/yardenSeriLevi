@@ -3,7 +3,7 @@ Hi everyone my name is Yarden and Im a BSc student at [Hadassha Academic Collage
 
 ### About Me ###
 ```Java
-class Yaarden
+class Yarden
 {
   private String name = "Yarden Seri Levi";
   private String[] programingLanguages = {"Java", "js", "React", "python", "C++"};
