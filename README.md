@@ -10,7 +10,7 @@ class Yarden
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yardenSeriLevi&show_icons=true&theme=cobalt)
+
 
 ### Contact Me ###
 If you want to contact me, you are welcome to do it through:  
